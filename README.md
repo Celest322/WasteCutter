@@ -63,7 +63,6 @@ View on Stellar Expert
 
 🔗 Click here to view the contract on Stellar Expert
 (https://stellar.expert/explorer/testnet/account/GCSGI4ZRPWFZV3DZMHNRELFJXJ6YELBV3LDADK7AWUHSELBLPAU4UT42)
-<img width="1865" height="925" alt="image" src="https://github.com/user-attachments/assets/bdeedbf4-ae16-4f24-9d7c-ec47e026b0af" />
 <img width="1908" height="942" alt="image" src="https://github.com/user-attachments/assets/37f48f60-da95-459d-8242-aac2f7087355" />
 
 View on Stellar Lab
