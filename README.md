@@ -1,4 +1,4 @@
-WasteCutter 
+DWasteCutter 
 
 Stop bleeding cash on forgotten SaaS subscriptions. Find waste. Cut it. Keep profits.
 
@@ -64,13 +64,6 @@ CA54SPYD3W6ACDBGLEERYQQ6TZ2XMLYWQP2GBCIFSPLKH7RGYXQ7D7N2
 
 (https://stellar.expert/explorer/testnet/contract/CA54SPYD3W6ACDBGLEERYQQ6TZ2XMLYWQP2GBCIFSPLKH7RGYXQ7D7N2?filter=history)
 <img width="1908" height="942" alt="image" src="https://github.com/user-attachments/assets/37f48f60-da95-459d-8242-aac2f7087355" />
-
-View on Stellar Lab
-
-🔗 Interact via Stellar Lab
-https://stellar.expert/explorer/testnet/account/GCSGI4ZRPWFZV3DZMHNRELFJXJ6YELBV3LDADK7AWUHSELBLPAU4UT42
-Deployment Transaction
-text
 
 Above: Contract view showing initialization, subscription storage, and reminder functions
 Key Features
